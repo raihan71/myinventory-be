@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "jihahah",
+      "description": "apoteku",
+      "image": "9p1evomsznq1suJC.jpg"
+    },
+    {
+      "id": 7,
+      "title": "obat",
+      "description": "obatku",
+      "image": "kWtw5ClvB3J5p22v.jpg"
+    },
+    {
+      "id": 8,
+      "title": "testing",
+      "description": "testing lagi",
+      "image": "DlXx70g7RtOGvJRr.jpg"
+    }
+  ]
+}
